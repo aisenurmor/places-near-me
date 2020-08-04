@@ -9,8 +9,8 @@
 import UIKit
 import Moya
 
-private let apiKey = "CEDelXgQkDGslnKNRjFVyYQXVt--nB-fzmakueZdcRI7pigMffdhL4MKlCGp2ZJq4tRdQtLUoCxF9_DGKssDcDV6VB4zfxIijS9V3zgdG4-Yw2F96NHxNKoo_dXHXnYx"
-private let clientId = "HAXMImlrR6saM8RhNJ-_AA"
+private let apiKey = ""
+private let clientId = ""
 
 enum YelpServices {
     
